@@ -1,0 +1,4 @@
+*.tbl
+*.tbl.u*
+delete.*
+*.pgres
