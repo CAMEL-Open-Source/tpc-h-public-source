@@ -1,0 +1,12 @@
+[global]
+ioengine=psync
+direct=1
+buffered=0
+time_based=1
+prio=0
+bs=4K
+
+[reader]
+rw=randread
+size=4G
+runtime=10
